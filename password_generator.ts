@@ -1,8 +1,8 @@
 /**
  * Complex password generator using TypeScript.
  *
- * Developped as a curiosity side project, to try out a bit of TS. Hence, this script may not showcase best conventions
- * writtings or best use of TS' functionalities.
+ * Developped as a curiosity side project, to try out a bit of TS. Hence, this script may not showcase best writting
+ * conventions or best use of TS' functionalities.
  */
 
 
